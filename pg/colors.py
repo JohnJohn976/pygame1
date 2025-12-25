@@ -1,0 +1,11 @@
+class Colors:
+    RED = (255, 0, 0)
+    GREEN = (0, 192, 0)
+    BLUE = (0, 0, 255)
+    WHITE = (255, 255, 255)
+    BLACK = (0, 0, 0)
+    GRAY = (128, 128, 128)
+    ALICEBLUE = (240, 248, 255)
+    YELLOW = (255, 255, 0)
+    DARKGRAY = (90, 90, 90)
+    DIMGRAY = (64, 64, 64)
